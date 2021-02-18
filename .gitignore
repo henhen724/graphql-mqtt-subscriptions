@@ -1,6 +1,6 @@
-.idea
+src
 node_modules
-#dist
-coverage
 typings
-npm-debug.log
+tsconfig.json
+typings.json
+tslint.json
